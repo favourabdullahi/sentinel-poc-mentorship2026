@@ -78,4 +78,4 @@ processing occurred.
 | Step 34 | Detection Rule Created & Enabled | Complete |
 | Step 35 | Incident Created in Sentinel | Complete |
 | Step 36 | Playbook Fixed & Succeeded | Complete |
-| Step 37 | Cleanup (Remove user & role) | Pending |
+| Step 37 | Cleanup (Remove user & role) | complete |
